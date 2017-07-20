@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<data>
+  <channel>
+    <item>
+      <link>http://xwjie.com</link>
+      <image>http://localhost/wordpress2/wp-content/plugins/wp-flash-img-show/images/01.jpg</image>
+      <title>XWJie Home</title>
+    </item>
+    <item>
+      <link>http://keyfc.net</link>
+      <image>http://localhost/wordpress2/wp-content/plugins/wp-flash-img-show/images/02.jpg</image>
+      <title>ore no imoto</title>
+    </item>
+    <item>
+      <link>http://google.com</link>
+      <image>http://localhost/wordpress2/wp-content/plugins/wp-flash-img-show/images/03.jpg</image>
+      <title>some fruit</title>
+    </item>
+    <item>
+      <link>http://xwjie.com/about</link>
+      <image>http://localhost/wordpress2/wp-content/plugins/wp-flash-img-show/images/04.jpg</image>
+      <title>strawberries</title>
+    </item>
+  </channel>
+  <config>
+    <roundCorner>10</roundCorner>
+    <autoPlayTime>3</autoPlayTime>
+    <isHeightQuality>true</isHeightQuality>
+    <windowOpen>_blank</windowOpen>
+    <btnSetMargin>auto 5 5 auto</btnSetMargin>
+    <btnDistance>20</btnDistance>
+    <titleBgColor>0xff6600</titleBgColor>
+    <titleBgAlpha>0.75</titleBgAlpha>
+    <titleTextColor>0xffffff</titleTextColor>
+    <titleFont>TAHOMA</titleFont>
+    <titleMoveDuration>1</titleMoveDuration>
+    <btnAlpha>0.7</btnAlpha>
+    <btnTextColor>0xffffff</btnTextColor>
+    <btnDefaultColor>0x1B3433</btnDefaultColor>
+    <btnHoverColor>0xff9900</btnHoverColor>
+    <btnFocusColor>0xff6600</btnFocusColor>
+    <changImageMode>click</changImageMode>
+    <isShowBtn>true</isShowBtn>
+    <isShowTitle>true</isShowTitle>
+    <scaleMode>noBorde</scaleMode>
+    <transform>alpha</transform>
+    <isShowAbout>true</isShowAbout>
+  </config>
+</data>

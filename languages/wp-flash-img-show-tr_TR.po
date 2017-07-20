@@ -1,0 +1,296 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP flash img show\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-11-27 00:58+0800\n"
+"PO-Revision-Date: 2010-11-27 00:58+0800\n"
+"Last-Translator: tojary <gxxywj@gmail.co>\n"
+"Language-Team: Weeebdesign <info@weeebhosting.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: TURKEY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-flash-img-show.php:200
+msgid "Preview"
+msgstr "Önizleme"
+
+#: wp-flash-img-show.php:204
+msgid "Get code"
+msgstr ""
+
+#: wp-flash-img-show.php:206
+msgid "If there's no change,clear your Browser's Cache and try again."
+msgstr ""
+
+#: wp-flash-img-show.php:220
+#: wp-flash-img-show.php:223
+#: wp-flash-img-show.php:298
+#: wp-flash-img-show.php:345
+msgid "Config Name"
+msgstr ""
+
+#: wp-flash-img-show.php:242
+msgid "Manage Config"
+msgstr ""
+
+#: wp-flash-img-show.php:248
+msgid "Choose a Config"
+msgstr ""
+
+#: wp-flash-img-show.php:261
+msgid "Edit this Config"
+msgstr ""
+
+#: wp-flash-img-show.php:262
+msgid "Delete Config"
+msgstr ""
+
+#: wp-flash-img-show.php:268
+msgid "Delete This Config"
+msgstr ""
+
+#: wp-flash-img-show.php:282
+msgid "New Config Name"
+msgstr ""
+
+#: wp-flash-img-show.php:287
+msgid "Create a New Config"
+msgstr ""
+
+#: wp-flash-img-show.php:293
+msgid "Config Name Only consist of letters,numbers"
+msgstr ""
+
+#: wp-flash-img-show.php:298
+msgid "Basic Settings"
+msgstr "Temel Ayarlar"
+
+#: wp-flash-img-show.php:303
+msgid "Img item number"
+msgstr "Görüntülenecek resim sayıs"
+
+#: wp-flash-img-show.php:306
+msgid "Get images from Recent post automatic."
+msgstr ""
+
+#: wp-flash-img-show.php:313
+msgid "Image URL"
+msgstr "Resim URL"
+
+#: wp-flash-img-show.php:314
+msgid "Upload Inages"
+msgstr ""
+
+#: wp-flash-img-show.php:316
+msgid "Link"
+msgstr "Bağlantı"
+
+#: wp-flash-img-show.php:317
+msgid "description"
+msgstr "Açıklama"
+
+#: wp-flash-img-show.php:337
+msgid "Image URL is not allow cross-domain , it must begin with:"
+msgstr ""
+
+#: wp-flash-img-show.php:341
+msgid "Do Not upload your image file to \"wp-content/plugins/wp_flash_img_show/images/\" ,or you may lose any custom image files when update this plugin."
+msgstr ""
+
+#: wp-flash-img-show.php:345
+msgid "Display option"
+msgstr "Ekran Seçenekleri"
+
+#: wp-flash-img-show.php:354
+msgid "Width"
+msgstr "Genişlik"
+
+#: wp-flash-img-show.php:356
+#: wp-flash-img-show.php:361
+#: wp-flash-img-show.php:367
+#: wp-flash-img-show.php:372
+#: wp-flash-img-show.php:383
+#: wp-flash-img-show.php:388
+#: wp-flash-img-show.php:393
+#: wp-flash-img-show.php:398
+#: wp-flash-img-show.php:403
+#: wp-flash-img-show.php:408
+#: wp-flash-img-show.php:413
+#: wp-flash-img-show.php:418
+#: wp-flash-img-show.php:429
+#: wp-flash-img-show.php:434
+#: wp-flash-img-show.php:439
+#: wp-flash-img-show.php:444
+#: wp-flash-img-show.php:449
+#: wp-flash-img-show.php:454
+#: wp-flash-img-show.php:464
+#: wp-flash-img-show.php:479
+#: wp-flash-img-show.php:487
+#: wp-flash-img-show.php:501
+#: wp-flash-img-show.php:517
+msgid "default"
+msgstr "varsayılan"
+
+#: wp-flash-img-show.php:359
+msgid "Height"
+msgstr "Yükseklik"
+
+#: wp-flash-img-show.php:365
+msgid "Round Corner"
+msgstr "Yuvarlak köşe"
+
+#: wp-flash-img-show.php:370
+msgid "Auto Play Time"
+msgstr "Slayt geçiş süresi"
+
+#: wp-flash-img-show.php:378
+msgid "Is Show button"
+msgstr "Butonları göster"
+
+#: wp-flash-img-show.php:386
+msgid "Button Margin"
+msgstr "Buton kenar hizalaması"
+
+#: wp-flash-img-show.php:391
+msgid "Button Distance"
+msgstr "Butonlar arası uzaklık"
+
+#: wp-flash-img-show.php:396
+msgid "Button Alpha"
+msgstr "Buton opaklığı"
+
+#: wp-flash-img-show.php:401
+msgid "Button Text Color"
+msgstr "Buton metin rengi"
+
+#: wp-flash-img-show.php:406
+msgid "Button Default Color"
+msgstr "Buton varsayılan rengi"
+
+#: wp-flash-img-show.php:411
+msgid "Button Hover Color"
+msgstr "Buton hover rengi"
+
+#: wp-flash-img-show.php:416
+msgid "Button Focus Color"
+msgstr "Buton focus rengi"
+
+#: wp-flash-img-show.php:424
+msgid "Is Show Description"
+msgstr "Açıklamaları göster"
+
+#: wp-flash-img-show.php:432
+msgid "Description Bg Alpha"
+msgstr "Açıklama arkaplan opaklığı"
+
+#: wp-flash-img-show.php:437
+msgid "Description Text Font"
+msgstr "Açıklama metin fontu"
+
+#: wp-flash-img-show.php:442
+msgid "Description Move Duration"
+msgstr "Açıklamanın ekrana gelme sÜresi"
+
+#: wp-flash-img-show.php:447
+msgid "Description Bg Color"
+msgstr "Açıklama arkaplan rengi"
+
+#: wp-flash-img-show.php:452
+msgid "Description Text Color"
+msgstr "Açıklama metin rengi"
+
+#: wp-flash-img-show.php:459
+msgid "Is Height Quality"
+msgstr "Yüksek kalite"
+
+#: wp-flash-img-show.php:474
+msgid "Window Open"
+msgstr "Bağlantı penceresi"
+
+#: wp-flash-img-show.php:482
+msgid "Chang Image Mode"
+msgstr "Resim modunu değiştir"
+
+#: wp-flash-img-show.php:492
+msgid "Scale Mode"
+msgstr "Skala modu"
+
+#: wp-flash-img-show.php:504
+msgid "Transform Mode"
+msgstr "Geçiş modu"
+
+#: wp-flash-img-show.php:533
+msgid "Update Options"
+msgstr "Seçenekleri Güncelle"
+
+#: wp-flash-img-show.php:538
+msgid "Default option"
+msgstr "Varsayılan Ayarlar"
+
+#: wp-flash-img-show.php:542
+msgid "Load Defaults Setting! Are You Sure ?"
+msgstr "Varsayılan ayarları yüklemek istediğinizden emin misiniz?"
+
+#: wp-flash-img-show.php:552
+msgid "Have trouble? Just Click here."
+msgstr "Sorun mu var? Sadece buraya tıklayın."
+
+#: wp-flash-img-show.php:561
+msgid "Where is it display ?"
+msgstr "Nerede görünmesini istersiniz?"
+
+#: wp-flash-img-show.php:565
+msgid "Select a config and edit it and then Click here to get code !"
+msgstr ""
+
+#: wp-flash-img-show.php:568
+#: wp-flash-img-show.php:582
+msgid "Method"
+msgstr ""
+
+#: wp-flash-img-show.php:569
+msgid "Put this (HTML) code in your Template / Post / Widgets(text-widgets)"
+msgstr "Buradaki HTML kodunu şablonlara, mesajları ve/veya menü bileşenlerine  ( metin bileşeni ) koyabilirsiniz"
+
+#: wp-flash-img-show.php:572
+#: wp-flash-img-show.php:586
+msgid "Display Config: `default`"
+msgstr ""
+
+#: wp-flash-img-show.php:574
+#: wp-flash-img-show.php:588
+msgid "display  your New config:"
+msgstr ""
+
+#: wp-flash-img-show.php:578
+#: wp-flash-img-show.php:591
+msgid "Replace"
+msgstr ""
+
+#: wp-flash-img-show.php:583
+msgid "Put this (PHP) code in your template "
+msgstr "<b>Veya</b> temanız içinde .php dosyalarınızın içine buradaki kodu koyabilirsiniz"
+
+#: wp-flash-img-show.php:593
+msgid "Make sure have <code>wp_head()</code> just before the closing <code>&lt;/head&gt;</code> tag of your theme AND  have <code>wp_footer()</code> just before the closing <code>&lt;/body&gt;</code> tag of your theme, or you will break many plugins.(You can edit and add those function to your theme file.)"
+msgstr ""
+
+#: wp-flash-img-show.php:602
+msgid "If you find my work useful and you want to encourage the development of more free resources, you can do it by donating..."
+msgstr "Özgür kaynakların gelişmesi adına benim yapmış olduğum bu eklentiyi yararlı buluyorsanız bağış yapabilirsiniz..."
+
+#~ msgid ""
+#~ "Image URL is not allow cross-domain <br />Blog URL is \"http://blog.xwjie."
+#~ "com\" ,Image URL should begin with \"http://blog.xwjie.com\""
+#~ msgstr ""
+#~ "Image URL is not allow cross-domain <br />Blog URL is \"http://blog.xwjie."
+#~ "com\" ,Image URL should begin with \"http://blog.xwjie.com\""
+
+#~ msgid "Is Show About"
+#~ msgstr "Hakkındayı göster"

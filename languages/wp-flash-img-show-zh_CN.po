@@ -1,0 +1,301 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-flash-img-show\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-11-27 00:58+0800\n"
+"PO-Revision-Date: 2010-11-27 00:58+0800\n"
+"Last-Translator: tojary <gxxywj@gmail.co>\n"
+"Language-Team: Tojary <gxxywj@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SearchPath-0: D:\\web\\xampplite\\htdocs\\wordpress2\\wp-content\\plugins\\wp-flash-img-show\n"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:200
+msgid "Preview"
+msgstr "预览"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:204
+msgid "Get code"
+msgstr "获取代码"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:206
+msgid "If there's no change,clear your Browser's Cache and try again."
+msgstr "如果没有变化，请清空浏览器缓存再试一次。"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:220
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:223
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:298
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:345
+msgid "Config Name"
+msgstr "配置名"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:242
+msgid "Manage Config"
+msgstr "配置管理"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:248
+msgid "Choose a Config"
+msgstr "选择配置"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:261
+msgid "Edit this Config"
+msgstr "编辑配置"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:262
+msgid "Delete Config"
+msgstr "删除配置"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:268
+msgid "Delete This Config"
+msgstr "删除这个配置"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:282
+msgid "New Config Name"
+msgstr "新配置"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:287
+msgid "Create a New Config"
+msgstr "新建配置"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:293
+msgid "Config Name Only consist of letters,numbers"
+msgstr "配置名仅允许有英文字母和数字"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:298
+msgid "Basic Settings"
+msgstr "基本设置"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:303
+msgid "Img item number"
+msgstr "显示图片数"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:306
+msgid "Get images from Recent post automatic."
+msgstr "自动从最新文章获取图片"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:313
+msgid "Image URL"
+msgstr "图片URL地址"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:314
+msgid "Upload Inages"
+msgstr "上传图片"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:316
+msgid "Link"
+msgstr "链接地址"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:317
+msgid "description"
+msgstr "图片描述"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:337
+msgid "Image URL is not allow cross-domain , it must begin with:"
+msgstr "图片地址不允许跨域名，图片URL开头只能是："
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:341
+msgid "Do Not upload your image file to \"wp-content/plugins/wp_flash_img_show/images/\" ,or you may lose any custom image files when update this plugin."
+msgstr "不要上传图片到\"wp-content/plugins/wp_flash_img_show/images/\"文件夹，否则当你升级这个插件的时候，你将可能丢失所有自定义的图片"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:345
+msgid "Display option"
+msgstr "显示选项"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:354
+msgid "Width"
+msgstr "宽度"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:356
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:361
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:367
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:372
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:383
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:388
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:393
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:398
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:403
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:408
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:413
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:418
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:429
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:434
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:439
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:444
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:449
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:454
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:464
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:479
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:487
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:501
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:517
+msgid "default"
+msgstr "默认"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:359
+msgid "Height"
+msgstr "高度"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:365
+msgid "Round Corner"
+msgstr "圆角"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:370
+msgid "Auto Play Time"
+msgstr "图片切换时间"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:378
+msgid "Is Show button"
+msgstr "是否显示按钮"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:386
+msgid "Button Margin"
+msgstr "按钮的位置"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:391
+msgid "Button Distance"
+msgstr "按钮的距离"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:396
+msgid "Button Alpha"
+msgstr "按钮的透明度"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:401
+msgid "Button Text Color"
+msgstr "按钮文字的颜色"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:406
+msgid "Button Default Color"
+msgstr "按钮的默认颜色"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:411
+msgid "Button Hover Color"
+msgstr "按钮的掠过颜色"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:416
+msgid "Button Focus Color"
+msgstr "按钮当前颜色"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:424
+msgid "Is Show Description"
+msgstr "是否显示描述"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:432
+msgid "Description Bg Alpha"
+msgstr "描述的背景透明"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:437
+msgid "Description Text Font"
+msgstr "描述的字体(名)"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:442
+msgid "Description Move Duration"
+msgstr "描述背景动画的时间"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:447
+msgid "Description Bg Color"
+msgstr "描述的背景颜色"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:452
+msgid "Description Text Color"
+msgstr "描述的文字颜色"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:459
+msgid "Is Height Quality"
+msgstr "是否采用高质量"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:474
+msgid "Window Open"
+msgstr "链接打开方式"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:482
+msgid "Chang Image Mode"
+msgstr "图片切换模式"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:492
+msgid "Scale Mode"
+msgstr "图片放缩模式"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:504
+msgid "Transform Mode"
+msgstr "图片切换模式"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:533
+msgid "Update Options"
+msgstr "保存设置"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:538
+msgid "Default option"
+msgstr "恢复默认设置"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:542
+msgid "Load Defaults Setting! Are You Sure ?"
+msgstr "恢复所有设置，确定吗？"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:552
+msgid "Have trouble? Just Click here."
+msgstr "遇到问题？点击这里吧"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:561
+msgid "Where is it display ?"
+msgstr "怎么样插入页面？"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:565
+msgid "Select a config and edit it and then Click here to get code !"
+msgstr "选择并编辑你的配置（名）然后点击这里获取代码！"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:568
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:582
+msgid "Method"
+msgstr "方法"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:569
+msgid "Put this (HTML) code in your Template / Post / Widgets(text-widgets)"
+msgstr "把下面这句（HTML）代码复制到你的主题文件/文章/边栏小工具（文本小工具）"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:572
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:586
+msgid "Display Config: `default`"
+msgstr "显示配置“default”"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:574
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:588
+msgid "display  your New config:"
+msgstr "显示你新建的配置："
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:578
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:591
+msgid "Replace"
+msgstr "替换"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:583
+msgid "Put this (PHP) code in your template "
+msgstr "把这句（PHP）代码复制到你的主题文件中"
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:593
+msgid "Make sure have <code>wp_head()</code> just before the closing <code>&lt;/head&gt;</code> tag of your theme AND  have <code>wp_footer()</code> just before the closing <code>&lt;/body&gt;</code> tag of your theme, or you will break many plugins.(You can edit and add those function to your theme file.)"
+msgstr "确保你的主题模板文件中有一个 <code>wp_head()</code>在<code>&lt;/head&gt;</code> 标签之前， 而确保有一个 <code>wp_footer()</code> 在 <code>&lt;/body&gt;</code>标签之前, 否则很多插件无法使用，包括本插件（请手动添加到主题模板文件中）."
+
+#: D:\web\xampplite\htdocs\wordpress2\wp-content\plugins\wp-flash-img-show/wp-flash-img-show.php:602
+msgid "If you find my work useful and you want to encourage the development of more free resources, you can do it by donating..."
+msgstr "如果你觉得这个插件对你很有用，想鼓励作者开发更多功能，可以考虑小额捐助："
+
+#~ msgid ""
+#~ "Image URL is not allow cross-domain <br />Blog URL is \"http://blog.xwjie."
+#~ "com\" ,Image URL should begin with \"http://blog.xwjie.com\""
+#~ msgstr ""
+#~ "图片地址不允许跨域名。<br>例如网站地址是http://blog.xwjie.com，图片URL只能"
+#~ "是http://blog.xwjie.com开头"
+
+#~ msgid "Is Show About"
+#~ msgstr "是否显示关于信息"
+
+#~ msgid "Photo URL"
+#~ msgstr "图片地址"
+
+#~ msgid "Is Show Btn"
+#~ msgstr "是否显示按钮"
